@@ -5,12 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/zamio-kaju/id6759985715">
-    <img src="https://zamio.kaju.pl/assets/appstore.svg" alt="Download on the App Store" height="50" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.myprosoft.zamio">
-    <img src="https://zamio.kaju.pl/assets/googleplay.svg" alt="Get it on Google Play" height="50" />
-  </a>
+  <a href="https://apps.apple.com/app/zamio-kaju/id6759985715"><b>Download on the App Store</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.myprosoft.zamio"><b>Get it on Google Play</b></a>
 </p>
 
 <p align="center">
