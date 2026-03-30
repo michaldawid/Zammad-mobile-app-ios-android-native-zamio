@@ -1,7 +1,7 @@
 # Zamio - Mobile App for Zammad Helpdesk
 
 <p align="center">
-  <img src="https://zamio.kaju.pl/assets/appicon.png" alt="Zamio" width="120" />
+  <img src="https://zamio.kaju.pl/img/icon.png" alt="Zamio" width="120" />
 </p>
 
 <p align="center">
@@ -24,6 +24,19 @@
 ---
 
 **Zamio** is a native mobile app for [Zammad](https://zammad.com) helpdesk — available on iOS and Android. Manage your tickets, reply to customers, and get instant push notifications when something needs your attention.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/2.png" alt="Ticket Overviews" width="180" />
+  <img src="screenshots/1.png" alt="My Assigned Tickets" width="180" />
+  <img src="screenshots/6.png" alt="Ticket Conversation" width="180" />
+  <img src="screenshots/5.png" alt="Edit Ticket" width="180" />
+</p>
+<p align="center">
+  <img src="screenshots/4.png" alt="Notifications" width="180" />
+  <img src="screenshots/3.png" alt="Settings" width="180" />
+</p>
 
 ## Features
 
@@ -85,7 +98,7 @@ Detailed instructions with screenshots are available at [zamio.kaju.pl](https://
 Zamio works with Zammad 6.0+ and uses the standard REST API (`/api/v1`). Older versions may work but are not officially tested.
 
 **Is my data safe?**
-Zamio connects directly to your Zammad server. The only external service involved is the push notification relay, which only receives webhook payloads needed to route notifications. Your API token never leaves your device. See our [Privacy Policy](https://zamio.kaju.pl/privacy.html).
+Zamio connects directly to your Zammad server. The only external service involved is the push notification relay, which only receives webhook payloads needed to route notifications. Your API token never leaves your device. See our [Privacy Policy](https://notification.zamio.kaju.pl/privacy.html).
 
 **I'm not receiving push notifications**
 1. Make sure your Zammad admin has completed the [webhook setup](#setup-admin)
